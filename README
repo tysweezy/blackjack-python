@@ -12,7 +12,7 @@ Program Details:
 I plan to add more features such as:
 
 1.) Player plays against CPU
-2.) Possibly add a GUI. Tkinter? wxPyton
+2.) Possibly add a GUI. Tkinter? wxPyton?
 3.) or possibly work with Pygame or Pyglet 
 
 Anyway, this is a prototype and I can extend on this later.
