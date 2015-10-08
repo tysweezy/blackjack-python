@@ -70,13 +70,3 @@ class Deal(object):
                 
 deal = Deal()
 deal.decider()
-
-
-
-
-
-        
-
-
-
-
